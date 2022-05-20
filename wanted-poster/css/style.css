@@ -136,4 +136,6 @@ footer {
 	border-top: 2rem solid #333;
 	
 }
-
+h4 > span {
+	padding:0 .5rem 0 .5rem;
+}
