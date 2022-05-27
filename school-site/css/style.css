@@ -155,9 +155,15 @@ a:hover {
 
 /* List Styling */
 
-ul {}
+ul {
+	margin: 1rem, 0rem, 1rem, 0rem;
+	list-style-type: square;
+}
 
-ol {}
+ol {
+	margin: 1rem, 0rem, 1rem, 0rem;
+	list-style-type: lowercase letter;
+}
 
 .long-list a:hover {}
 
