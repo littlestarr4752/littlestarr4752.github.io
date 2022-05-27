@@ -189,9 +189,15 @@ nav a {
 }
 
 nav a:focus,
-nav a:hover {}
+nav a:hover {
+	color:#FFF;
+	background-color:#33658A;
+}
 
-nav a:active {}
+nav a:active {
+	color:#FFF;
+	background-color:#000;
+}
 
 
 /* Footer Styles */
