@@ -172,9 +172,15 @@ ol {
 
 /* Navigation Menu */
 
-nav {}
+nav {
+	padding-left: 0rem;
+	margin-top: .25rem;
+}
 
-nav a {}
+nav a {
+	text-decoration:none;
+	display: inline-block;
+}
 
 nav a:focus,
 nav a:hover {}
